@@ -3,3 +3,5 @@ Most alarms for home users of these switches on the doors. It usually consists o
 The objective of the program is to simulate an alarm using a REED SWITCH and a BUZZER.
 If the magnetic field of the REED SWITCH is interfered with by some signal, it sends a signal to the BUZZER and the LED so that it
 turn on simulating the alarm with sound and light.
+
+this program was developed under free software, the operating system of BEDIAN was used
