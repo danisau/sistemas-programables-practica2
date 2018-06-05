@@ -63,8 +63,8 @@ En la actualidad software libre es consecuencia del método de la ética ya que 
 
 # Pruebas:
 ---------------------------------------------
-![Imagen S.O.](ESCRITORIO DEBIAN.png) 
-![Imagen Alarma](IMG_20180605_100423.jpg) 
+![Imagen](ESCRITORIO DEBIAN.png) 
+![Imagen](IMG_20180605_100423.jpg) 
 
 
 
